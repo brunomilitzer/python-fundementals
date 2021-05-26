@@ -8,3 +8,4 @@
 3. [Print and Input](https://github.com/brunomilitzer/python-fundementals/tree/main/printandinput)
 4. [Basic Programs](https://github.com/brunomilitzer/python-fundementals/tree/main/basicprograms)
 5. [Control Statements](https://github.com/brunomilitzer/python-fundementals/tree/main/controlstatements)
+6. [Command Line Arguments](https://github.com/brunomilitzer/python-fundementals/tree/main/commandlinearguments)
