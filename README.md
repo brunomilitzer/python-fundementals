@@ -11,3 +11,5 @@
 6. [Command Line Arguments](https://github.com/brunomilitzer/python-fundementals/tree/main/commandlinearguments)
 7. [Functions](https://github.com/brunomilitzer/python-fundementals/tree/main/functions)
 8. [Varargs](https://github.com/brunomilitzer/python-fundementals/tree/main/varargs)
+9. [OOPS Basics](https://github.com/brunomilitzer/python-fundementals/tree/main/oopsbasics)
+10. [Encapsulation](https://github.com/brunomilitzer/python-fundementals/tree/main/encapsulation)
