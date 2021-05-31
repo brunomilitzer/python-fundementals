@@ -19,3 +19,4 @@
 14. [Files](https://github.com/brunomilitzer/python-fundementals/tree/main/files)
 15. [Regular Expressions](https://github.com/brunomilitzer/python-fundementals/tree/main/regularexpressions)
 16. [Date and time](https://github.com/brunomilitzer/python-fundementals/tree/main/dateandtime)
+17. [Multithreading](https://github.com/brunomilitzer/python-fundementals/tree/main/multithreading)
