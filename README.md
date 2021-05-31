@@ -15,3 +15,5 @@
 10. [Encapsulation](https://github.com/brunomilitzer/python-fundementals/tree/main/encapsulation)
 11. [Inheritance & Abstract Class](https://github.com/brunomilitzer/python-fundementals/tree/main/inheritance)
 12. [Polymorphism](https://github.com/brunomilitzer/python-fundementals/tree/main/polymorphism)
+13. [Exception Handling](https://github.com/brunomilitzer/python-fundementals/tree/main/exceptionhandling)
+14. [Files](https://github.com/brunomilitzer/python-fundementals/tree/main/files)
