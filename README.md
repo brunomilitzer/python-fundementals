@@ -21,3 +21,4 @@
 16. [Date and time](https://github.com/brunomilitzer/python-fundementals/tree/main/dateandtime)
 17. [Multithreading](https://github.com/brunomilitzer/python-fundementals/tree/main/multithreading)
 18. [Networking](https://github.com/brunomilitzer/python-fundementals/tree/main/networking)
+19. [Database Operations](https://github.com/brunomilitzer/python-fundementals/tree/main/dboperations)
