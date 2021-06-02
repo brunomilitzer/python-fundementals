@@ -22,3 +22,4 @@
 17. [Multithreading](https://github.com/brunomilitzer/python-fundementals/tree/main/multithreading)
 18. [Networking](https://github.com/brunomilitzer/python-fundementals/tree/main/networking)
 19. [Database Operations](https://github.com/brunomilitzer/python-fundementals/tree/main/dboperations)
+20. [Numpy in Action](https://github.com/brunomilitzer/python-fundementals/tree/main/numpyinaction)
